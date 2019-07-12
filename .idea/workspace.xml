@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d7f41d0-6533-4be5-989a-c12ae867b025" name="Default Changelist" comment="" />
+    <list default="true" id="1d7f41d0-6533-4be5-989a-c12ae867b025" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/gru_checkpoints/gru/grumodel_0_4.73670.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gru_checkpoints/gru/grumodel_0_5.17624.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gru_checkpoints/gru/grumodel_17600_0.92960.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gru_checkpoints/gru/grumodel_17600_3.23737.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gru_checkpoints/gru/grumodel_200_5.66287.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gru_checkpoints/gru/losses_gru.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pretraining_checkpoints/model_0_1.18178.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pretraining_checkpoints/model_0_1.18425.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pretraining_checkpoints/model_0_1.20189.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pretraining_checkpoints/test_loss_acc.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pretraining_checkpoints/train_loss_acc.txt" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1326">
-              <caret line="345" column="25" selection-start-line="345" selection-start-column="25" selection-end-line="345" selection-end-column="25" />
+            <state relative-caret-position="204">
+              <caret line="180" column="12" lean-forward="true" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -114,6 +126,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -127,12 +142,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="317" />
-    <option name="y" value="91" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="164" />
+    <option name="y" value="31" />
     <option name="width" value="1394" />
-    <option name="height" value="946" />
+    <option name="height" value="918" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -158,7 +174,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deep-speaker-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Deep_Speaker-speaker_recognition_system-master" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -236,10 +252,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="240" y="52" width="1394" height="946" extended-state="0" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18664478" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -247,7 +264,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.36819637" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34543177" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2945571" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.1430096" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -415,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="345" column="25" selection-start-line="345" selection-start-column="25" selection-end-line="345" selection-end-column="25" />
+        <state relative-caret-position="204">
+          <caret line="180" column="12" lean-forward="true" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
